@@ -1,0 +1,13 @@
+.vscode
+IO.o
+main.o
+table.o
+parseCommand.o
+executeCommand.o
+pager.o
+cursor.o
+node.o
+tree.o
+input.in
+internalNode.o
+leafNode.o
